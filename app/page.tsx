@@ -182,7 +182,7 @@ export default function HomePage() {
         </div>
 
         {/* Footer */}
-        <Copyright showAppName={true} />
+        <Copyright showAppName={false} />
       </div>
     </div>
   )

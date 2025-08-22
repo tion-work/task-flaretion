@@ -38,7 +38,6 @@ pnpm install
 
 ```bash
 NEXT_PUBLIC_API_URL=http://localhost:8080
-NEXT_PUBLIC_APP_NAME=Flaretion Core
 ```
 
 ## 🚀 开发运行

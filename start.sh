@@ -35,7 +35,6 @@ if [ ! -f ".env.local" ]; then
     echo "🔧 创建环境变量文件..."
     cat > .env.local << EOF
 NEXT_PUBLIC_API_URL=http://localhost:8080
-NEXT_PUBLIC_APP_NAME=Flaretion Core
 EOF
     echo "✅ 环境变量文件已创建"
 else

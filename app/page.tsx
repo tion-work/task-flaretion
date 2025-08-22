@@ -6,6 +6,7 @@ import { Eye, EyeOff, User, Mail, Lock, Building2 } from 'lucide-react'
 import { useForm } from 'react-hook-form'
 import toast from 'react-hot-toast'
 import { authService } from '@/lib/services/authService'
+import Copyright from './components/Copyright'
 
 type AuthMode = 'login' | 'register'
 
@@ -181,9 +182,7 @@ export default function HomePage() {
         </div>
 
         {/* Footer */}
-        <div className="text-center mt-8 text-sm text-gray-500">
-          <p>© 2024 TaskMaster. All rights reserved.</p>
-        </div>
+        <Copyright showAppName={true} />
       </div>
     </div>
   )

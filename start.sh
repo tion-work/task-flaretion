@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 启动 Flaretion Core Web 前端项目..."
+echo "🚀 启动 Task Master 前端项目..."
 
 # 检查是否在正确的目录
 if [ ! -f "package.json" ]; then

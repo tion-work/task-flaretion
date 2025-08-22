@@ -1,6 +1,6 @@
-# Flaretion Core Web
+# Task Master
 
-这是 Flaretion Core 的前端项目，使用 Next.js 14 + TypeScript + Tailwind CSS 构建。
+这是 任务大师 的前端项目，使用 Next.js 14 + TypeScript + Tailwind CSS 构建。
 
 ## 🚀 功能特性
 

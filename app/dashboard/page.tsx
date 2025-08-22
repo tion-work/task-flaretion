@@ -134,7 +134,7 @@ export default function DashboardPage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Building2 className="w-8 h-8 text-primary-600 mr-3" />
-              <h1 className="text-xl font-semibold text-gray-900">Flaretion Core</h1>
+              <h1 className="text-xl font-semibold text-gray-900">任务大师</h1>
             </div>
             <div className="flex items-center space-x-4">
               <div className="flex items-center text-sm text-gray-700">
@@ -157,7 +157,7 @@ export default function DashboardPage() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex justify-between items-center mb-8">
           <div>
-            <h1 className="text-3xl font-bold text-gray-900">TaskMaster 仪表板</h1>
+            <h1 className="text-3xl font-bold text-gray-900">仪表板</h1>
             <p className="text-gray-600 mt-2">管理您的项目和任务</p>
           </div>
           <button
